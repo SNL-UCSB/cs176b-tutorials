@@ -126,8 +126,6 @@ control MyIngress(inout headers hdr,
 
 
     // TODO: declare a new table: myTunnel_exact
-    // TODO: also remember to add table entries!
-
 
     apply {
         // TODO: Update control flow
